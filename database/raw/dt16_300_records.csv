@@ -1,0 +1,301 @@
+record_id,record_type,name,destination,topic,source_note
+1,space,ĐT-16 space 001,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+2,scene,ĐT-16 scene 002,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+3,artifact,ĐT-16 artifact 003,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+4,hotspot,ĐT-16 hotspot 004,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+5,narration,ĐT-16 narration 005,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+6,tour,ĐT-16 tour 006,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+7,tour_step,ĐT-16 tour_step 007,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+8,guestbook,ĐT-16 guestbook 008,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+9,collection_item,ĐT-16 collection_item 009,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+10,visit_log,ĐT-16 visit_log 010,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+11,space,ĐT-16 space 011,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+12,scene,ĐT-16 scene 012,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+13,artifact,ĐT-16 artifact 013,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+14,hotspot,ĐT-16 hotspot 014,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+15,narration,ĐT-16 narration 015,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+16,tour,ĐT-16 tour 016,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+17,tour_step,ĐT-16 tour_step 017,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+18,guestbook,ĐT-16 guestbook 018,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+19,collection_item,ĐT-16 collection_item 019,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+20,visit_log,ĐT-16 visit_log 020,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+21,space,ĐT-16 space 021,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+22,scene,ĐT-16 scene 022,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+23,artifact,ĐT-16 artifact 023,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+24,hotspot,ĐT-16 hotspot 024,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+25,narration,ĐT-16 narration 025,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+26,tour,ĐT-16 tour 026,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+27,tour_step,ĐT-16 tour_step 027,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+28,guestbook,ĐT-16 guestbook 028,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+29,collection_item,ĐT-16 collection_item 029,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+30,visit_log,ĐT-16 visit_log 030,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+31,space,ĐT-16 space 031,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+32,scene,ĐT-16 scene 032,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+33,artifact,ĐT-16 artifact 033,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+34,hotspot,ĐT-16 hotspot 034,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+35,narration,ĐT-16 narration 035,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+36,tour,ĐT-16 tour 036,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+37,tour_step,ĐT-16 tour_step 037,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+38,guestbook,ĐT-16 guestbook 038,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+39,collection_item,ĐT-16 collection_item 039,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+40,visit_log,ĐT-16 visit_log 040,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+41,space,ĐT-16 space 041,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+42,scene,ĐT-16 scene 042,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+43,artifact,ĐT-16 artifact 043,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+44,hotspot,ĐT-16 hotspot 044,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+45,narration,ĐT-16 narration 045,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+46,tour,ĐT-16 tour 046,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+47,tour_step,ĐT-16 tour_step 047,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+48,guestbook,ĐT-16 guestbook 048,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+49,collection_item,ĐT-16 collection_item 049,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+50,visit_log,ĐT-16 visit_log 050,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+51,space,ĐT-16 space 051,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+52,scene,ĐT-16 scene 052,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+53,artifact,ĐT-16 artifact 053,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+54,hotspot,ĐT-16 hotspot 054,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+55,narration,ĐT-16 narration 055,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+56,tour,ĐT-16 tour 056,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+57,tour_step,ĐT-16 tour_step 057,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+58,guestbook,ĐT-16 guestbook 058,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+59,collection_item,ĐT-16 collection_item 059,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+60,visit_log,ĐT-16 visit_log 060,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+61,space,ĐT-16 space 061,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+62,scene,ĐT-16 scene 062,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+63,artifact,ĐT-16 artifact 063,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+64,hotspot,ĐT-16 hotspot 064,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+65,narration,ĐT-16 narration 065,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+66,tour,ĐT-16 tour 066,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+67,tour_step,ĐT-16 tour_step 067,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+68,guestbook,ĐT-16 guestbook 068,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+69,collection_item,ĐT-16 collection_item 069,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+70,visit_log,ĐT-16 visit_log 070,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+71,space,ĐT-16 space 071,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+72,scene,ĐT-16 scene 072,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+73,artifact,ĐT-16 artifact 073,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+74,hotspot,ĐT-16 hotspot 074,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+75,narration,ĐT-16 narration 075,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+76,tour,ĐT-16 tour 076,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+77,tour_step,ĐT-16 tour_step 077,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+78,guestbook,ĐT-16 guestbook 078,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+79,collection_item,ĐT-16 collection_item 079,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+80,visit_log,ĐT-16 visit_log 080,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+81,space,ĐT-16 space 081,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+82,scene,ĐT-16 scene 082,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+83,artifact,ĐT-16 artifact 083,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+84,hotspot,ĐT-16 hotspot 084,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+85,narration,ĐT-16 narration 085,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+86,tour,ĐT-16 tour 086,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+87,tour_step,ĐT-16 tour_step 087,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+88,guestbook,ĐT-16 guestbook 088,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+89,collection_item,ĐT-16 collection_item 089,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+90,visit_log,ĐT-16 visit_log 090,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+91,space,ĐT-16 space 091,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+92,scene,ĐT-16 scene 092,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+93,artifact,ĐT-16 artifact 093,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+94,hotspot,ĐT-16 hotspot 094,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+95,narration,ĐT-16 narration 095,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+96,tour,ĐT-16 tour 096,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+97,tour_step,ĐT-16 tour_step 097,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+98,guestbook,ĐT-16 guestbook 098,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+99,collection_item,ĐT-16 collection_item 099,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+100,visit_log,ĐT-16 visit_log 100,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+101,space,ĐT-16 space 101,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+102,scene,ĐT-16 scene 102,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+103,artifact,ĐT-16 artifact 103,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+104,hotspot,ĐT-16 hotspot 104,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+105,narration,ĐT-16 narration 105,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+106,tour,ĐT-16 tour 106,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+107,tour_step,ĐT-16 tour_step 107,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+108,guestbook,ĐT-16 guestbook 108,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+109,collection_item,ĐT-16 collection_item 109,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+110,visit_log,ĐT-16 visit_log 110,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+111,space,ĐT-16 space 111,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+112,scene,ĐT-16 scene 112,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+113,artifact,ĐT-16 artifact 113,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+114,hotspot,ĐT-16 hotspot 114,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+115,narration,ĐT-16 narration 115,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+116,tour,ĐT-16 tour 116,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+117,tour_step,ĐT-16 tour_step 117,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+118,guestbook,ĐT-16 guestbook 118,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+119,collection_item,ĐT-16 collection_item 119,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+120,visit_log,ĐT-16 visit_log 120,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+121,space,ĐT-16 space 121,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+122,scene,ĐT-16 scene 122,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+123,artifact,ĐT-16 artifact 123,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+124,hotspot,ĐT-16 hotspot 124,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+125,narration,ĐT-16 narration 125,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+126,tour,ĐT-16 tour 126,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+127,tour_step,ĐT-16 tour_step 127,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+128,guestbook,ĐT-16 guestbook 128,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+129,collection_item,ĐT-16 collection_item 129,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+130,visit_log,ĐT-16 visit_log 130,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+131,space,ĐT-16 space 131,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+132,scene,ĐT-16 scene 132,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+133,artifact,ĐT-16 artifact 133,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+134,hotspot,ĐT-16 hotspot 134,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+135,narration,ĐT-16 narration 135,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+136,tour,ĐT-16 tour 136,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+137,tour_step,ĐT-16 tour_step 137,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+138,guestbook,ĐT-16 guestbook 138,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+139,collection_item,ĐT-16 collection_item 139,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+140,visit_log,ĐT-16 visit_log 140,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+141,space,ĐT-16 space 141,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+142,scene,ĐT-16 scene 142,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+143,artifact,ĐT-16 artifact 143,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+144,hotspot,ĐT-16 hotspot 144,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+145,narration,ĐT-16 narration 145,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+146,tour,ĐT-16 tour 146,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+147,tour_step,ĐT-16 tour_step 147,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+148,guestbook,ĐT-16 guestbook 148,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+149,collection_item,ĐT-16 collection_item 149,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+150,visit_log,ĐT-16 visit_log 150,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+151,space,ĐT-16 space 151,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+152,scene,ĐT-16 scene 152,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+153,artifact,ĐT-16 artifact 153,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+154,hotspot,ĐT-16 hotspot 154,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+155,narration,ĐT-16 narration 155,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+156,tour,ĐT-16 tour 156,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+157,tour_step,ĐT-16 tour_step 157,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+158,guestbook,ĐT-16 guestbook 158,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+159,collection_item,ĐT-16 collection_item 159,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+160,visit_log,ĐT-16 visit_log 160,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+161,space,ĐT-16 space 161,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+162,scene,ĐT-16 scene 162,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+163,artifact,ĐT-16 artifact 163,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+164,hotspot,ĐT-16 hotspot 164,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+165,narration,ĐT-16 narration 165,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+166,tour,ĐT-16 tour 166,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+167,tour_step,ĐT-16 tour_step 167,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+168,guestbook,ĐT-16 guestbook 168,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+169,collection_item,ĐT-16 collection_item 169,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+170,visit_log,ĐT-16 visit_log 170,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+171,space,ĐT-16 space 171,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+172,scene,ĐT-16 scene 172,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+173,artifact,ĐT-16 artifact 173,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+174,hotspot,ĐT-16 hotspot 174,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+175,narration,ĐT-16 narration 175,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+176,tour,ĐT-16 tour 176,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+177,tour_step,ĐT-16 tour_step 177,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+178,guestbook,ĐT-16 guestbook 178,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+179,collection_item,ĐT-16 collection_item 179,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+180,visit_log,ĐT-16 visit_log 180,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+181,space,ĐT-16 space 181,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+182,scene,ĐT-16 scene 182,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+183,artifact,ĐT-16 artifact 183,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+184,hotspot,ĐT-16 hotspot 184,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+185,narration,ĐT-16 narration 185,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+186,tour,ĐT-16 tour 186,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+187,tour_step,ĐT-16 tour_step 187,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+188,guestbook,ĐT-16 guestbook 188,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+189,collection_item,ĐT-16 collection_item 189,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+190,visit_log,ĐT-16 visit_log 190,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+191,space,ĐT-16 space 191,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+192,scene,ĐT-16 scene 192,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+193,artifact,ĐT-16 artifact 193,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+194,hotspot,ĐT-16 hotspot 194,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+195,narration,ĐT-16 narration 195,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+196,tour,ĐT-16 tour 196,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+197,tour_step,ĐT-16 tour_step 197,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+198,guestbook,ĐT-16 guestbook 198,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+199,collection_item,ĐT-16 collection_item 199,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+200,visit_log,ĐT-16 visit_log 200,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+201,space,ĐT-16 space 201,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+202,scene,ĐT-16 scene 202,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+203,artifact,ĐT-16 artifact 203,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+204,hotspot,ĐT-16 hotspot 204,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+205,narration,ĐT-16 narration 205,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+206,tour,ĐT-16 tour 206,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+207,tour_step,ĐT-16 tour_step 207,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+208,guestbook,ĐT-16 guestbook 208,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+209,collection_item,ĐT-16 collection_item 209,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+210,visit_log,ĐT-16 visit_log 210,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+211,space,ĐT-16 space 211,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+212,scene,ĐT-16 scene 212,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+213,artifact,ĐT-16 artifact 213,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+214,hotspot,ĐT-16 hotspot 214,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+215,narration,ĐT-16 narration 215,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+216,tour,ĐT-16 tour 216,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+217,tour_step,ĐT-16 tour_step 217,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+218,guestbook,ĐT-16 guestbook 218,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+219,collection_item,ĐT-16 collection_item 219,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+220,visit_log,ĐT-16 visit_log 220,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+221,space,ĐT-16 space 221,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+222,scene,ĐT-16 scene 222,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+223,artifact,ĐT-16 artifact 223,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+224,hotspot,ĐT-16 hotspot 224,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+225,narration,ĐT-16 narration 225,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+226,tour,ĐT-16 tour 226,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+227,tour_step,ĐT-16 tour_step 227,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+228,guestbook,ĐT-16 guestbook 228,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+229,collection_item,ĐT-16 collection_item 229,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+230,visit_log,ĐT-16 visit_log 230,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+231,space,ĐT-16 space 231,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+232,scene,ĐT-16 scene 232,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+233,artifact,ĐT-16 artifact 233,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+234,hotspot,ĐT-16 hotspot 234,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+235,narration,ĐT-16 narration 235,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+236,tour,ĐT-16 tour 236,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+237,tour_step,ĐT-16 tour_step 237,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+238,guestbook,ĐT-16 guestbook 238,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+239,collection_item,ĐT-16 collection_item 239,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+240,visit_log,ĐT-16 visit_log 240,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+241,space,ĐT-16 space 241,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+242,scene,ĐT-16 scene 242,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+243,artifact,ĐT-16 artifact 243,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+244,hotspot,ĐT-16 hotspot 244,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+245,narration,ĐT-16 narration 245,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+246,tour,ĐT-16 tour 246,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+247,tour_step,ĐT-16 tour_step 247,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+248,guestbook,ĐT-16 guestbook 248,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+249,collection_item,ĐT-16 collection_item 249,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+250,visit_log,ĐT-16 visit_log 250,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+251,space,ĐT-16 space 251,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+252,scene,ĐT-16 scene 252,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+253,artifact,ĐT-16 artifact 253,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+254,hotspot,ĐT-16 hotspot 254,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+255,narration,ĐT-16 narration 255,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+256,tour,ĐT-16 tour 256,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+257,tour_step,ĐT-16 tour_step 257,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+258,guestbook,ĐT-16 guestbook 258,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+259,collection_item,ĐT-16 collection_item 259,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+260,visit_log,ĐT-16 visit_log 260,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+261,space,ĐT-16 space 261,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+262,scene,ĐT-16 scene 262,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+263,artifact,ĐT-16 artifact 263,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+264,hotspot,ĐT-16 hotspot 264,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+265,narration,ĐT-16 narration 265,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+266,tour,ĐT-16 tour 266,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+267,tour_step,ĐT-16 tour_step 267,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+268,guestbook,ĐT-16 guestbook 268,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+269,collection_item,ĐT-16 collection_item 269,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+270,visit_log,ĐT-16 visit_log 270,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+271,space,ĐT-16 space 271,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+272,scene,ĐT-16 scene 272,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+273,artifact,ĐT-16 artifact 273,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+274,hotspot,ĐT-16 hotspot 274,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+275,narration,ĐT-16 narration 275,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+276,tour,ĐT-16 tour 276,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+277,tour_step,ĐT-16 tour_step 277,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+278,guestbook,ĐT-16 guestbook 278,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+279,collection_item,ĐT-16 collection_item 279,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+280,visit_log,ĐT-16 visit_log 280,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+281,space,ĐT-16 space 281,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+282,scene,ĐT-16 scene 282,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+283,artifact,ĐT-16 artifact 283,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+284,hotspot,ĐT-16 hotspot 284,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+285,narration,ĐT-16 narration 285,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+286,tour,ĐT-16 tour 286,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+287,tour_step,ĐT-16 tour_step 287,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+288,guestbook,ĐT-16 guestbook 288,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+289,collection_item,ĐT-16 collection_item 289,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+290,visit_log,ĐT-16 visit_log 290,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+291,space,ĐT-16 space 291,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+292,scene,ĐT-16 scene 292,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+293,artifact,ĐT-16 artifact 293,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+294,hotspot,ĐT-16 hotspot 294,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+295,narration,ĐT-16 narration 295,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+296,tour,ĐT-16 tour 296,Hà Nội,di sản,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+297,tour_step,ĐT-16 tour_step 297,Huế,gốm,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+298,guestbook,ĐT-16 guestbook 298,Đà Nẵng,dân tộc học,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+299,collection_item,ĐT-16 collection_item 299,Hội An,lịch sử,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.
+300,visit_log,ĐT-16 visit_log 300,Quảng Ninh,nghệ thuật,Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.

@@ -1,0 +1,23 @@
+MaYeuCau,YeuCau,FileNguon,API_DiemTiepNhan
+FR-01,Đăng ký tài khoản,backend/app/Http/Controllers/Api/AuthController.php; backend/app/Http/Requests/RegisterRequest.php; frontend/src/views/RegisterView.vue,POST /api/register
+FR-02,Đăng nhập/Đăng xuất,backend/app/Http/Controllers/Api/AuthController.php; frontend/src/stores/auth.js; frontend/src/views/LoginView.vue,"POST /api/login, POST /api/logout"
+FR-03,Quản lý thông tin cá nhân,backend/app/Http/Controllers/Api/AuthController.php; frontend/src/views/ProfileView.vue,GET/PUT /api/me; POST /api/change-password
+FR-04,Xem danh sách hiện vật,backend/app/Http/Controllers/Api/ArtifactController.php; frontend/src/views/ArtifactCatalogView.vue,GET /api/artifacts
+FR-05,Tìm kiếm hiện vật,backend/app/Http/Controllers/Api/ArtifactController.php; frontend/src/views/ArtifactCatalogView.vue,GET /api/artifacts?q=...
+FR-06,Xem chi tiết hiện vật,backend/app/Http/Controllers/Api/ArtifactController.php; frontend/src/views/ArtifactCatalogView.vue,GET /api/artifacts/{id}
+FR-07,Tham quan không gian 360°,frontend/src/components/PanoramaViewer.vue; frontend/src/views/FreeExploreView.vue,Pannellum 360 viewer
+FR-08,Điều hướng trong không gian 360°,backend/app/Models/SceneLink.php; frontend/src/views/FreeExploreView.vue; frontend/src/views/TourPlayerView.vue,GET /api/scenes; outgoing_links
+FR-09,Xem điểm tương tác,backend/app/Models/Hotspot.php; frontend/src/components/PanoramaViewer.vue,GET /api/spaces/{id}; hotspot overlays
+FR-10,Xem thông tin tại điểm tham quan,frontend/src/components/HotspotInfoModal.vue; backend/app/Models/Artifact.php,Hotspot modal
+FR-11,Xem danh sách tour,backend/app/Http/Controllers/Api/TourController.php; frontend/src/views/TourListView.vue,GET /api/tours
+FR-12,Bắt đầu tour tham quan,frontend/src/views/TourPlayerView.vue; backend/app/Services/TourService.php,GET /api/tours/{id}
+FR-13,Theo dõi tiến trình tour,backend/app/Http/Controllers/Api/TourProgressController.php; frontend/src/views/TourPlayerView.vue,GET/PUT /api/tour-progress/{tour}
+FR-14,Nội dung hình ảnh/video/audio,backend/app/Models/Artifact.php; backend/app/Models/Narration.php; frontend/src/components/HotspotInfoModal.vue; frontend/src/views/ArtifactCatalogView.vue,"image, video_url, audio_path, transcript"
+FR-15,Yêu thích hiện vật/tour,backend/app/Http/Controllers/Api/FavoriteController.php; frontend/src/components/FavoriteButton.vue; frontend/src/views/CollectionView.vue,GET/POST/DELETE /api/favorites
+FR-16,Đánh giá và phản hồi,backend/app/Http/Controllers/Api/FeedbackController.php; frontend/src/views/FeedbackView.vue,GET/POST /api/feedback
+FR-17,Quản lý hiện vật,backend/app/Http/Controllers/Api/ArtifactController.php; frontend/src/views/admin/ArtifactsAdmin.vue,POST/PUT/DELETE /api/artifacts
+FR-18,Quản lý không gian 360°,backend/app/Http/Controllers/Api/SpaceController.php; backend/app/Http/Controllers/Api/SceneController.php; frontend/src/views/admin/SpacesAdmin.vue; frontend/src/views/admin/ScenesAdmin.vue,POST/PUT/DELETE /api/spaces; scene APIs
+FR-19,Quản lý tour và sắp xếp điểm,backend/app/Services/TourService.php; frontend/src/views/admin/ToursAdmin.vue,POST/PUT/DELETE /api/tours
+FR-20,Quản lý tài khoản và khóa/mở khóa,backend/app/Http/Controllers/Api/UserController.php; frontend/src/views/admin/UsersAdmin.vue; backend/app/Http/Controllers/Api/AuthController.php,GET /api/users; PUT role/status
+FR-21,Quản lý/kiểm duyệt phản hồi,backend/app/Http/Controllers/Api/FeedbackController.php; frontend/src/views/admin/FeedbackAdmin.vue,GET /api/feedback/moderation; PUT status
+FR-22,Thống kê hệ thống,backend/app/Http/Controllers/Api/VisitLogController.php; backend/app/Services/VisitAnalyticsService.php; python-service/app/analytics.py; frontend/src/views/admin/StatsAdmin.vue,GET /api/visit-logs/summary

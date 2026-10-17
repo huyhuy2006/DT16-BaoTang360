@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="920" viewBox="0 0 1440 920">
+<rect width="100%" height="100%" fill="#f6f7f9"/>
+<text x="60" y="60" font-family="Arial" font-size="30" font-weight="700" fill="#1f2937">ĐT-16 — Wireframe</text>
+<rect x="60" y="100" width="1320" height="80" rx="16" fill="#ffffff" stroke="#9ca3af" stroke-width="3"/>
+<text x="84" y="142" font-family="Arial" font-size="22" font-weight="700" fill="#374151">Header + breadcrumb</text>
+<line x1="84" y1="175" x2="1356" y2="175" stroke="#d1d5db" stroke-width="3"/>
+<line x1="84" y1="225" x2="1356" y2="225" stroke="#d1d5db" stroke-width="3"/>
+<line x1="84" y1="275" x2="1356" y2="275" stroke="#d1d5db" stroke-width="3"/>
+<rect x="60" y="210" width="900" height="620" rx="16" fill="#ffffff" stroke="#9ca3af" stroke-width="3"/>
+<text x="84" y="252" font-family="Arial" font-size="22" font-weight="700" fill="#374151">Panorama 360 + radar/minimap</text>
+<line x1="84" y1="285" x2="936" y2="285" stroke="#d1d5db" stroke-width="3"/>
+<line x1="84" y1="335" x2="936" y2="335" stroke="#d1d5db" stroke-width="3"/>
+<line x1="84" y1="385" x2="936" y2="385" stroke="#d1d5db" stroke-width="3"/>
+<rect x="1000" y="860" width="380" height="620" rx="16" fill="#ffffff" stroke="#9ca3af" stroke-width="3"/>
+<text x="1024" y="902" font-family="Arial" font-size="22" font-weight="700" fill="#374151">Thông tin hotspot / hiện vật</text>
+<line x1="1024" y1="935" x2="1356" y2="935" stroke="#d1d5db" stroke-width="3"/>
+<line x1="1024" y1="985" x2="1356" y2="985" stroke="#d1d5db" stroke-width="3"/>
+<line x1="1024" y1="1035" x2="1356" y2="1035" stroke="#d1d5db" stroke-width="3"/>
+</svg>

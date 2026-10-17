@@ -1,0 +1,19 @@
+{
+  "dataset_name": "DT16 virtual museum tourism demo dataset",
+  "minimum_required": 300,
+  "records_in_package": 300,
+  "source_type": "Mô phỏng có căn cứ",
+  "source_note": "Dữ liệu mô phỏng có căn cứ cho ĐT-16/CSE703073; thay bằng nguồn dữ liệu thật và ghi điều kiện sử dụng trước khi nộp.",
+  "record_type_counts": {
+    "space": 30,
+    "scene": 30,
+    "artifact": 30,
+    "hotspot": 30,
+    "narration": 30,
+    "tour": 30,
+    "tour_step": 30,
+    "guestbook": 30,
+    "collection_item": 30,
+    "visit_log": 30
+  }
+}

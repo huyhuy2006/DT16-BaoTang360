@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="920" viewBox="0 0 1440 920">
+<rect width="100%" height="100%" fill="#f6f7f9"/>
+<text x="60" y="60" font-family="Arial" font-size="30" font-weight="700" fill="#1f2937">ĐT-16 — Wireframe</text>
+<rect x="60" y="100" width="1320" height="110" rx="16" fill="#ffffff" stroke="#9ca3af" stroke-width="3"/>
+<text x="84" y="142" font-family="Arial" font-size="22" font-weight="700" fill="#374151">Thanh điều hướng + logo</text>
+<line x1="84" y1="175" x2="1356" y2="175" stroke="#d1d5db" stroke-width="3"/>
+<line x1="84" y1="225" x2="1356" y2="225" stroke="#d1d5db" stroke-width="3"/>
+<line x1="84" y1="275" x2="1356" y2="275" stroke="#d1d5db" stroke-width="3"/>
+<rect x="60" y="240" width="1320" height="240" rx="16" fill="#ffffff" stroke="#9ca3af" stroke-width="3"/>
+<text x="84" y="282" font-family="Arial" font-size="22" font-weight="700" fill="#374151">Hero / Giới thiệu bảo tàng</text>
+<line x1="84" y1="315" x2="1356" y2="315" stroke="#d1d5db" stroke-width="3"/>
+<line x1="84" y1="365" x2="1356" y2="365" stroke="#d1d5db" stroke-width="3"/>
+<line x1="84" y1="415" x2="1356" y2="415" stroke="#d1d5db" stroke-width="3"/>
+<rect x="60" y="510" width="620" height="260" rx="16" fill="#ffffff" stroke="#9ca3af" stroke-width="3"/>
+<text x="84" y="552" font-family="Arial" font-size="22" font-weight="700" fill="#374151">Tour theo chủ đề</text>
+<line x1="84" y1="585" x2="656" y2="585" stroke="#d1d5db" stroke-width="3"/>
+<line x1="84" y1="635" x2="656" y2="635" stroke="#d1d5db" stroke-width="3"/>
+<line x1="84" y1="685" x2="656" y2="685" stroke="#d1d5db" stroke-width="3"/>
+<rect x="760" y="800" width="620" height="260" rx="16" fill="#ffffff" stroke="#9ca3af" stroke-width="3"/>
+<text x="784" y="842" font-family="Arial" font-size="22" font-weight="700" fill="#374151">Không gian nổi bật</text>
+<line x1="784" y1="875" x2="1356" y2="875" stroke="#d1d5db" stroke-width="3"/>
+<line x1="784" y1="925" x2="1356" y2="925" stroke="#d1d5db" stroke-width="3"/>
+<line x1="784" y1="975" x2="1356" y2="975" stroke="#d1d5db" stroke-width="3"/>
+</svg>

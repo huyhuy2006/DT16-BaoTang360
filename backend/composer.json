@@ -1,0 +1,25 @@
+{
+  "name": "cse703073/bao-tang-ao",
+  "type": "project",
+  "description": "ĐT-16 — Bảo tàng ảo và tour tham quan 360 độ",
+  "require": {
+    "php": "^8.2|^8.3",
+    "laravel/framework": "^11.0",
+    "laravel/sanctum": "^4.0"
+  },
+  "require-dev": {
+    "fakerphp/faker": "^1.23",
+    "laravel/pint": "^1.13",
+    "mockery/mockery": "^1.6",
+    "nunomaduro/collision": "^8.1",
+    "phpunit/phpunit": "^10.5|^11.0"
+  },
+  "autoload": {
+    "psr-4": { "App\\": "app/", "Database\\Factories\\": "database/factories/", "Database\\Seeders\\": "database/seeders/", "Tests\\": "tests/" }
+  },
+  "scripts": {
+    "test": "php artisan test",
+    "lint": "php artisan pint"
+  },
+  "extra": { "laravel": { "dont-discover": [] } }
+}

@@ -1,0 +1,25 @@
+openapi: 3.0.3
+info:
+  title: ĐT-16 Bảo tàng ảo API
+  version: 1.0.0
+servers:
+  - url: http://localhost:8000/api
+paths:
+  /spaces:
+    get:
+      summary: Danh sách không gian
+      responses: {"200": {description: OK}}
+    post:
+      summary: Tạo không gian
+      responses: {"201": {description: Created}}
+  /tours:
+    get:
+      summary: Danh sách tour
+      responses: {"200": {description: OK}}
+    post:
+      summary: Tạo tour
+      responses: {"201": {description: Created}}
+  /login:
+    post:
+      summary: Đăng nhập
+      responses: {"200": {description: OK}, "401": {description: Unauthorized}}
