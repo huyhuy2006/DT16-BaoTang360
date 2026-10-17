@@ -83,7 +83,18 @@ class AuthTest extends TestCase
         $user = User::factory()->create();
         $token = $user->createToken('test')->plainTextToken;
 
-        $this->withHeader('Authorization', 'Bearer ' . $token)->postJson('/api/logout')->assertStatus(200);
-        $this->withHeader('Authorization', 'Bearer ' . $token)->getJson('/api/me')->assertStatus(401);
+        $this->withHeader('Authorization', 'Bearer '.$token)
+            ->postJson('/api/logout')
+            ->assertStatus(200);
+
+        // Xac nhan token da bi thu hoi trong database.
+        $this->assertDatabaseCount('personal_access_tokens', 0);
+
+        // Xoa guard da cache truoc khi mo phong request tiep theo.
+        app('auth')->forgetGuards();
+
+        $this->withHeader('Authorization', 'Bearer '.$token)
+            ->getJson('/api/me')
+            ->assertStatus(401);
     }
 }

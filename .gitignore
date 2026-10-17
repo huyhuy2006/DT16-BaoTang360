@@ -54,3 +54,6 @@ desktop.ini
 
 # Keep local testing environment out of Git
 /backend/.env.testing
+
+# PHPUnit result cache
+backend/.phpunit.result.cache

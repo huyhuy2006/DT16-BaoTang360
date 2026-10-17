@@ -19,6 +19,7 @@ onMounted(() => {
 </script>
 
 <style>
-.container { max-width: 1100px; margin: 0 auto; padding: 16px; }
-.container.narrow { max-width: 420px; }
+.container.narrow {
+  max-width: 420px;
+}
 </style>

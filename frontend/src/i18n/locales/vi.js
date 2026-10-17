@@ -1,5 +1,13 @@
-export default {
+﻿export default {
+  brand: {
+    name: "Bảo tàng ảo",
+    tagline: "Khám phá di sản theo cách mới",
+  },
   nav: {
+    home: "Trang chủ",
+    profile: "Tài khoản",
+    feedback: "Đánh giá",
+    artifacts: "Hiện vật",
     tours: "Lộ trình",
     guestbook: "Sổ lưu bút",
     collection: "Bộ sưu tập",
@@ -18,6 +26,8 @@ export default {
     saveToCollection: "Lưu vào bộ sưu tập",
     narrationLanguage: "Ngôn ngữ thuyết minh",
     period: "Niên đại",
+    imageAlt: "Ảnh hiện vật",
+    videoUnsupported: "Trình duyệt không hỗ trợ video HTML5.",
   },
   guestbook: {
     title: "Sổ lưu bút",
@@ -25,9 +35,32 @@ export default {
     messagePlaceholder: "Cảm nhận của bạn về chuyến tham quan...",
     submit: "Gửi lưu bút",
   },
+  favorite: {
+    saving: "Đang lưu…",
+    saved: "♥ Đã yêu thích",
+    save: "♡ Yêu thích",
+    loginRequired: "Bạn cần đăng nhập để lưu mục yêu thích.",
+    updateFailed: "Không thể cập nhật mục yêu thích.",
+  },
+  theme: {
+    dark: "🌙 Chủ đề tối",
+    light: "☀ Chủ đề sáng",
+  },
   common: {
-    delete: "Xoá",
+    delete: "Xóa",
     save: "Lưu",
-    cancel: "Huỷ",
+    cancel: "Hủy",
+    close: "Đóng",
+    search: "Tìm kiếm",
+    clearFilter: "Xóa lọc",
+    loading: "Đang tải…",
+    previous: "Trang trước",
+    next: "Trang sau",
+    period: "Niên đại",
+    material: "Chất liệu",
+    details: "Xem chi tiết",
+    noDescription: "Chưa có mô tả cho hiện vật này.",
+    videoUnsupported: "Trình duyệt không hỗ trợ video.",
+    audioUnsupported: "Trình duyệt không hỗ trợ âm thanh.",
   },
 };
